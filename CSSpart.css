@@ -560,6 +560,7 @@ input[type="submit"]:hover{
         background-size: cover;
     }
     .landing-text h1{
+        font-family: 'Helvetica Neue', Roboto;
         font-size: 15rem;
     }
 
