@@ -632,7 +632,7 @@ input[type="submit"]:hover{
     }
 
     .timeline .date:before{
-        left: -20rem;
+        left: -19rem;
     }
 
     .timeline .date::after{
@@ -704,7 +704,7 @@ input[type="submit"]:hover{
     }
 
     .timeline .date::before{
-        font-size: 1.4rem;
+        font-size: 1rem;
     }
 
     form{
