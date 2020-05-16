@@ -145,7 +145,7 @@ li{
 
 .nav-link {
     color: white;
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica Neue', Roboto;
     font-size: 5rem;
     padding: 1rem;
 }
@@ -225,7 +225,7 @@ li{
 
 .landing-text h1{
     font-size: 20rem;
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica Neue', Roboto;
     background: linear-gradient(to top, #000000, #9bb7f7);
     background-clip: text;
     -webkit-background-clip: text;
